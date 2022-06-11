@@ -1,0 +1,1712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "KMCR7NeLGryGST0Sy6h-khjnHFs",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "DE",
+  "pageInfo": {
+    "totalResults": 694,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8hK8UHGXfwte0BEBkkEhLsHxwzQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DEqXNfs_HhY"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-06T19:30:13Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Donut-shaped C code that generates a 3D spinning donut",
+        "description": "\"Donut math: how donut.c works\" blog post by Andy Sloane: https://www.a1k0n.net/2011/07/20/donut-math.html Deobfuscated ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DEqXNfs_HhY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DEqXNfs_HhY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DEqXNfs_HhY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-06T19:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YJcvauwpSX-QBtRF6uwh9P_Qf_0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aB8zcAttP1E"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-08T16:50:49Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122",
+        "description": "David Fravor is a navy pilot of 18 years and a primary witness in one of the most credible UFO sightings in history. Please check ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aB8zcAttP1E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aB8zcAttP1E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aB8zcAttP1E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-08T16:50:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mPe5oGFg-EuoJOCPiii1qXXJk00",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DxREm3s1scA"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-28T19:04:38Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI | Lex Fridman Podcast #252",
+        "description": "Elon Musk is CEO of SpaceX, Tesla, Neuralink, and The Boring Company. To support this podcast by checking out our sponsors: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DxREm3s1scA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DxREm3s1scA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DxREm3s1scA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-28T19:04:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qv7nPZPc2XSoBtUpNg38gC5LHKE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-k-ztNsBM54"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-03T03:07:14Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Dan Carlin: Hardcore History | Lex Fridman Podcast #136",
+        "description": "Dan Carlin is a historian, political thinker, and podcaster. Please support this podcast by checking out our sponsors: - Athletic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-k-ztNsBM54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-k-ztNsBM54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-k-ztNsBM54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-03T03:07:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p1_0FsVO9oJDCJuOi2BNzWesz60",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XW0QZmtbjvs"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-03T21:07:24Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Vitalik Buterin: Ethereum 2.0 | Lex Fridman Podcast #188",
+        "description": "Vitalik Buterin is the co-founder of Ethereum. Please support this podcast by checking out our sponsors: - Athletic Greens: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XW0QZmtbjvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XW0QZmtbjvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XW0QZmtbjvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-03T21:07:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ui0pRgsD-DiOl6rVo8VzeYLZMiw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mC43pZkpTec"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-14T19:06:47Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Michael Saylor: Bitcoin, Inflation, and the Future of Money | Lex Fridman Podcast #276",
+        "description": "Michael Saylor is the CEO of MicroStrategy and a prominent holder and proponent of Bitcoin. Please support this podcast by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mC43pZkpTec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mC43pZkpTec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mC43pZkpTec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-14T19:06:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OIcvGs01CBJuU3xNfBWd8xoD7WI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4dC_nRYIDZU"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-20T18:57:03Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Sam Harris: Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning | Lex Fridman Podcast #185",
+        "description": "Sam Harris is an author, podcaster, and philosopher. Please support this podcast by checking out our sponsors: - National ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4dC_nRYIDZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4dC_nRYIDZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4dC_nRYIDZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-20T18:57:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5hRVTwugrtKoLV0NfoniGdbfJIA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5zOHSysMmH0"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-26T17:30:31Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse | Lex Fridman Podcast #267",
+        "description": "Mark Zuckerberg is CEO of Meta, formerly Facebook. Please support this podcast by checking out our sponsors: - Paperspace: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5zOHSysMmH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5zOHSysMmH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5zOHSysMmH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-26T17:30:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8TmXlnQ9NcwcuuzpuTgBt0RDGV4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FKCJWkPehdY"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-26T17:01:46Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Joe Rogan: Fear, Love, Chaos, and the Joe Rogan Experience | Lex Fridman Podcast #127",
+        "description": "Joe Rogan is a comedian, UFC commentator, and the host of the Joe Rogan Experience. Please check out our sponsors to get a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FKCJWkPehdY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FKCJWkPehdY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FKCJWkPehdY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-26T17:01:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_QHVyyMIa3NLV3p4y1GYz-ILHIs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kD5yc1LQrpQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-22T14:27:19Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Michio Kaku: Future of Humans, Aliens, Space Travel &amp; Physics | Lex Fridman Podcast #45",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kD5yc1LQrpQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kD5yc1LQrpQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kD5yc1LQrpQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-22T14:27:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LgESy8srkCF6AZ1IrqfmwgW5FLo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WxfA1OSev4c"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-08T00:03:40Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Alex Filippenko: Supernovae, Dark Energy, Aliens &amp; the Expanding Universe | Lex Fridman Podcast #137",
+        "description": "Alex Filippenko is an astrophysicist and professor of astronomy at Berkeley. Please support this podcast by checking out our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WxfA1OSev4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WxfA1OSev4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WxfA1OSev4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-08T00:03:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bblsbA07D9oGnf8upKHfD_L9pD8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "plcc6E-E1uU"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-14T05:36:17Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Avi Loeb: Aliens, Black Holes, and the Mystery of the Oumuamua | Lex Fridman Podcast #154",
+        "description": "Avi Loeb is an astrophysicist at Harvard. Please support this podcast by checking out our sponsors: - Zero Fasting: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/plcc6E-E1uU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/plcc6E-E1uU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/plcc6E-E1uU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-14T05:36:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qh6lA-BI22NLa_zPqCfuxMvLhaU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TG6BuSjwP4o"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-25T23:35:53Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Bret Weinstein: Truth, Science, and Censorship in the Time of a Pandemic | Lex Fridman Podcast #194",
+        "description": "Bret Weinstein is and evolutionary biologist, author, and co-host of the DarkHorse Podcast. Please support this podcast by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TG6BuSjwP4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TG6BuSjwP4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TG6BuSjwP4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-25T23:35:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KfpLfV0H31g_J65xhJGjmFNZi5w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ygAqYC8JOQI"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-17T17:48:13Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Oliver Stone: Vladimir Putin and War in Ukraine | Lex Fridman Podcast #286",
+        "description": "Oliver Stone is a filmmaker with 3 Oscar wins and 11 Oscar nominations. His films include Platoon, Wall Street, Born on the Fourth ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ygAqYC8JOQI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ygAqYC8JOQI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ygAqYC8JOQI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-17T17:48:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HSi2KDnTnKtTETLjjvRZh7poVo8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "smK9dgdTl40"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-12T17:35:22Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Elon Musk: Neuralink, AI, Autopilot, and the Pale Blue Dot | Lex Fridman Podcast #49",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/smK9dgdTl40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/smK9dgdTl40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/smK9dgdTl40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-12T17:35:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wmRbmvsyfeNdp61QBWlNpRj1mEY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3x1b_S6Qp2Q"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-16T19:40:27Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Vitalik Buterin: Ethereum, Cryptocurrency, and the Future of Money | Lex Fridman Podcast #80",
+        "description": "Vitalik Buterin is co-creator of Ethereum and ether, which is a cryptocurrency that is currently the second-largest digital currency ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3x1b_S6Qp2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3x1b_S6Qp2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3x1b_S6Qp2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-16T19:40:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wExY_FEGpnZB60KKgEMMZCDKF0o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cYPz_kisGws"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-25T05:39:25Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Joe Rogan trolling Lex Fridman",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cYPz_kisGws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cYPz_kisGws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cYPz_kisGws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-25T05:39:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w7TgOKztQ_d6PfT5hlEoLX4ZexM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8wYZjOzfTUk"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-29T22:27:38Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Tim Dillon: Comedy, Power, Conspiracy Theories, and Freedom | Lex Fridman Podcast #156",
+        "description": "Tim Dillon is a comedian and podcaster. Please support this podcast by checking out our sponsors: - NetSuite: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8wYZjOzfTUk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8wYZjOzfTUk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8wYZjOzfTUk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-29T22:27:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yk1mEBXmUKE2VG820Z272Y70QEM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o2nG7-eXxko"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-30T03:57:16Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Eric Weinstein: On the Nature of Good and Evil, Genius and Madness | Lex Fridman Podcast #134",
+        "description": "Eric Weinstein is a mathematical physicist, podcaster, and intellectual. Please support this podcast by checking out our sponsors: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o2nG7-eXxko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o2nG7-eXxko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o2nG7-eXxko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-30T03:57:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uZ7BsHzU5UVOavemr4fk_iYCZxI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uTCc2-1tbBQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-06T22:21:57Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Garry Nolan: UFOs and Aliens | Lex Fridman Podcast #262",
+        "description": "Garry Nolan is a professor at Stanford University School of Medicine. His research is in microbiology, immunology, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uTCc2-1tbBQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uTCc2-1tbBQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uTCc2-1tbBQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-06T22:21:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kJGj3WN6im8k8SHZTC18jPiKt6g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ClxRHJPz8aQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-28T16:54:27Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Andrew Huberman: Sleep, Dreams, Creativity, Fasting, and Neuroplasticity | Lex Fridman Podcast #164",
+        "description": "Andrew Huberman is a neuroscientist at Stanford. Please support this podcast by checking out our sponsors: - MasterClass: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ClxRHJPz8aQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ClxRHJPz8aQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ClxRHJPz8aQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-28T16:54:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lzr8h8WLQdv2L9o45f1wP4xltDE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ktj050DxG7Q"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-16T16:06:18Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Andrew Huberman: Neuroscience of Optimal Performance | Lex Fridman Podcast #139",
+        "description": "Andrew Huberman is a neuroscientist at Stanford. Please support this podcast by checking out our sponsors: - Eight Sleep: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ktj050DxG7Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ktj050DxG7Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ktj050DxG7Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-16T16:06:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hVISI6RaLSN9vDkFCNaaauYfUlw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Udh22kuLebg"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-11T19:52:16Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Roger Reaves: Smuggling Drugs for Pablo Escobar and the Medellin Cartel | Lex Fridman Podcast #199",
+        "description": "Roger Reaves is one of the most prolific drug smugglers in history. Please support this podcast by checking out our sponsors: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Udh22kuLebg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Udh22kuLebg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Udh22kuLebg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-11T19:52:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dDDvenZ5eyeGwKObEM1QAfR6ddI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uykM3NhJbso"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-31T23:09:35Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Michael Malice: The White Pill, Freedom, Hope, and Happiness Amidst Chaos | Lex Fridman Podcast #150",
+        "description": "Michael Malice is a political thinker, podcaster, and author. Please support this podcast by checking out our sponsors: - NetSuite: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uykM3NhJbso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uykM3NhJbso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uykM3NhJbso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-31T23:09:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eMfpzJ9Z1gp7LHslPPeNI3U5cOg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hXgqik6HXc0"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-04T15:56:28Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Consciousness is Not a Computation (Roger Penrose) | AI Podcast Clips",
+        "description": "Full episode with Roger Penrose (Mar 2020): https://www.youtube.com/watch?v=orMtwOz6Db0 Clips channel (Lex Clips): ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hXgqik6HXc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hXgqik6HXc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hXgqik6HXc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-04T15:56:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "97XucUu1JlRX3ZlzKGmrQpPi4Kk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1C2tPFCGL1U"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-08T20:54:39Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Chris Mason: Space Travel, Colonization, and Long-Term Survival in Space | Lex Fridman Podcast #283",
+        "description": "Chris Mason is a professor of genomics, physiology, and biophysics at Cornell, doing research on the long-term effects of space ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1C2tPFCGL1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1C2tPFCGL1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1C2tPFCGL1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-08T20:54:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ppBwrnFnceASuBQ0RyR2hzPQs6s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "grceJbuPUXI"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-14T00:50:22Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Saagar Enjeti: Politics, History, and Power | Lex Fridman Podcast #167",
+        "description": "Saagar Enjeti is a DC-based political correspondent and podcaster. Please support this podcast by checking out our sponsors: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/grceJbuPUXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/grceJbuPUXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/grceJbuPUXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-14T00:50:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j6jF90t2LuXaAuGl5H46z7N-5lU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bCA54RIkpTo"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-11T18:35:53Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Black Belt Speech | Lex Fridman",
+        "description": "I got my BJJ black belt yesterday from Phil Migliarese and Ricardo Migliarese at Balance Studios after 9 years of hard training and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bCA54RIkpTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bCA54RIkpTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bCA54RIkpTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-11T18:35:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mN3ba6053e9GlMILQHpSwe_mIp4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3MoiMCWhGuw"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-11T00:32:41Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "GSP teaches Lex Fridman how to street fight",
+        "description": "Georges showed me some of his street fighting secrets after our podcast conversation. If interested, check out some of these ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3MoiMCWhGuw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3MoiMCWhGuw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3MoiMCWhGuw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-11T00:32:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RlbY4T7j97Mmuu_Ns_VwwKUwgmQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "orMtwOz6Db0"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-31T14:34:14Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Roger Penrose: Physics of Consciousness and the Infinite Universe | Lex Fridman Podcast #85",
+        "description": "Roger Penrose is physicist, mathematician, and philosopher at University of Oxford. He has made fundamental contributions in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/orMtwOz6Db0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/orMtwOz6Db0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/orMtwOz6Db0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-31T14:34:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PU0_9UdYZSReraFtkb1qLclj9Mk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O5xeyoRL95U"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-11T16:47:40Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Deep Learning Basics: Introduction and Overview",
+        "description": "An introductory lecture for MIT course 6.S094 on the basics of deep learning including a few key ideas, subfields, and the big ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O5xeyoRL95U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O5xeyoRL95U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O5xeyoRL95U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-11T16:47:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YPf70DozotHsi9uyNTPpqUyYb7s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P-2P3MSZrBM"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-13T17:05:00Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Joscha Bach: Artificial Consciousness and the Nature of Reality | Lex Fridman Podcast #101",
+        "description": "Joscha Bach is the VP of Research at the AI Foundation, previously doing research at MIT and Harvard. Joscha work explores the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P-2P3MSZrBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P-2P3MSZrBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P-2P3MSZrBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-13T17:05:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3-7YQG60amFBX-C5drvUQE3YVxQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TISMidxdZoc"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-25T20:06:25Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Ray Dalio: Money, Power, and the Collapse of Empires | Lex Fridman Podcast #251",
+        "description": "Ray Dalio is an investor, author, and founder of Bridgewater Associates. Please support this podcast by checking out our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TISMidxdZoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TISMidxdZoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TISMidxdZoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-25T20:06:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f4K2lay31phpibkbQcScOF_wHZc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ktuw6Ow4sd0"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-09T18:52:27Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "John Danaher: The Path to Mastery in Jiu Jitsu, Grappling, Judo, and MMA | Lex Fridman Podcast #182",
+        "description": "John Danaher is a coach, scholar, and educator of jiu jitsu, submission grappling, judo, MMA, and the martial arts. Please support ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ktuw6Ow4sd0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ktuw6Ow4sd0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ktuw6Ow4sd0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-09T18:52:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0Z1INxhYx6Dyo0NLXiTb09w6EyI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cC1LFC0KFSw"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-27T16:42:48Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Brett Johnson: US Most Wanted Cybercriminal | Lex Fridman Podcast #272",
+        "description": "Brett Johnson was a US Most Wanted cybercriminal, called the Original Internet Godfather by US Secret Service for building the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cC1LFC0KFSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cC1LFC0KFSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cC1LFC0KFSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-27T16:42:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E4hOR6rP0AhYqu6e95Gg7bEuqHQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B2tXN7ZnSfU"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-31T22:46:41Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Michael Malice: New Year&#39;s Special | Lex Fridman Podcast #253",
+        "description": "Michael Malice is a political thinker, podcaster, author, and anarchist. Please support this podcast by checking out our sponsors: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B2tXN7ZnSfU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B2tXN7ZnSfU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B2tXN7ZnSfU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-31T22:46:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UtK8BOsKtRUNLtBrxJq_ix6P2yI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Np1zODg5cqc"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-28T18:03:38Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Garry Kasparov: Magnus Carlsen is a Lethal Combination of Fischer and Karpov | AI Podcast Clips",
+        "description": "This is a clip from a conversation with Garry Kasparov from Oct 2019. New full episodes once or twice a week and 1-2 new clips or ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Np1zODg5cqc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Np1zODg5cqc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Np1zODg5cqc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-28T18:03:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LGlPH6hWDlXrGS_4RplM8JuXVRM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4-SGpEInX_c"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-27T00:18:42Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Stephen Wolfram: Complexity and the Fabric of Reality | Lex Fridman Podcast #234",
+        "description": "Stephen Wolfram is a computer scientist, mathematician, and theoretical physicist. Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4-SGpEInX_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4-SGpEInX_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4-SGpEInX_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-27T00:18:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z3jsSL5YcPod6qV2cjhW8-jOVMw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ICj8p5jPd3Y"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-14T07:26:07Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Matthew Johnson: Psychedelics | Lex Fridman Podcast #145",
+        "description": "Matthew W. Johnson is a professor and psychedelics researcher at Johns Hopkins. Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ICj8p5jPd3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ICj8p5jPd3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ICj8p5jPd3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-14T07:26:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iTgMqutVFnl4l_PLhrvyihSk7tY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0VH1Lim8gL8"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-10T16:04:31Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Deep Learning State of the Art (2020)",
+        "description": "Lecture on most recent research and developments in deep learning, and hopes for 2020. This is not intended to be a list of SOTA ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0VH1Lim8gL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0VH1Lim8gL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0VH1Lim8gL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-10T16:04:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qt6icT2h0G1Dmwa3Mf1qbOPfDSw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RL4j4KPwNGM"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-18T06:24:05Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Max Tegmark: AI and Physics | Lex Fridman Podcast #155",
+        "description": "Max Tegmark is a physicist and AI researcher at MIT. Please support this podcast by checking out our sponsors: - The Jordan ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RL4j4KPwNGM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RL4j4KPwNGM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RL4j4KPwNGM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-18T06:24:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EozmA7Yb7-l1EOP_yjffLSTlbCg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R5rNoV1Qy_Q"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-15T15:40:21Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Michael Malice: Totalitarianism and Anarchy | Lex Fridman Podcast #200",
+        "description": "Michael Malice is a political thinker, podcaster, and author. Please support this podcast by checking out our sponsors: - Gala ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R5rNoV1Qy_Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R5rNoV1Qy_Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R5rNoV1Qy_Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-15T15:40:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rTWEmBWp7W1Da5XZpZ_7UWl-lEs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5f-JlzBuUUU"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-09T22:42:29Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Richard Dawkins: Evolution, Intelligence, Simulation, and Memes | Lex Fridman Podcast #87",
+        "description": "Richard Dawkins is an evolutionary biologist, and author of The Selfish Gene, The Blind Watchmaker, The God Delusion, The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5f-JlzBuUUU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5f-JlzBuUUU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5f-JlzBuUUU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-09T22:42:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rlgkVE9rdfUe4mJs_ZwR6-XnjWg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KOwm7GUjcg8"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-29T18:21:58Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Grimes: Music, AI, and the Future of Humanity | Lex Fridman Podcast #281",
+        "description": "Grimes is a musician, artist, singer, songwriter, producer, and director. Please support this podcast by checking out our sponsors: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KOwm7GUjcg8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KOwm7GUjcg8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KOwm7GUjcg8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-29T18:21:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r4MdZVAj1dscfeWrBWBTSkv5QCI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tm7poMupE8k"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-19T05:25:02Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Konstantin Batygin: Planet 9 and the Edge of Our Solar System | Lex Fridman Podcast #201",
+        "description": "Konstantin Batygin is a planetary astrophysicist at Caltech. Please support this podcast by checking out our sponsors: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tm7poMupE8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tm7poMupE8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tm7poMupE8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-19T05:25:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BLrErHbdXbIhBW-_6yraB6EEOyc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "usDqSEKDVsA"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-01T03:26:56Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Yeonmi Park: North Korea | Lex Fridman Podcast #196",
+        "description": "Yeonmi Park is a North Korean defector, human rights activist, and author of the book In Order to Live. Please support this podcast ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/usDqSEKDVsA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/usDqSEKDVsA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/usDqSEKDVsA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-01T03:26:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GQPoYsN6tRBmgz4ZD-IH--pgm-c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rIAZJNe7YtE"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-13T20:51:35Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Eric Weinstein: Geometric Unity and the Call for New Ideas &amp; Institutions | Lex Fridman Podcast #88",
+        "description": "Eric Weinstein is a mathematician with a bold and piercing intelligence, unafraid to explore the biggest questions in the universe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rIAZJNe7YtE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rIAZJNe7YtE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rIAZJNe7YtE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-13T20:51:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0Q7vWF9rHGfdaPnz4YGpYglSYX4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0m3hGZvD-0s"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-27T21:00:07Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "A day in my life | Lex Fridman",
+        "description": "An hour-by-hour breakdown of my daily routine. Support this podcast by supporting our sponsors: - Eight Sleep: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0m3hGZvD-0s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0m3hGZvD-0s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0m3hGZvD-0s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-27T21:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I5yCETk8cPZFY59II6wgcn6U24I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ifX_JnBfxTY"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-23T05:36:41Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Eric Weinstein: Difficult Conversations, Freedom of Speech, and Physics | Lex Fridman Podcast #163",
+        "description": "Eric Weinstein is a mathematical physicist and podcaster. Please support this podcast by checking out our sponsors: - Indeed: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ifX_JnBfxTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ifX_JnBfxTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ifX_JnBfxTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-23T05:36:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6bChsMPQ7tREV5zBOnSRAwgxnrI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BIk1zUy8ehU"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-02T15:18:13Z",
+        "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+        "title": "Michael Malice: Anarchy, Democracy, Libertarianism, Love, and Trolling | Lex Fridman Podcast #128",
+        "description": "Michael Malice is a political thinker, podcaster, and author. Please support this podcast by checking out our sponsors: - SEMrush: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BIk1zUy8ehU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BIk1zUy8ehU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BIk1zUy8ehU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Fridman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-02T15:18:13Z"
+      }
+    }
+  ]
+}
