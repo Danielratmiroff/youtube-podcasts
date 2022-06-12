@@ -17,8 +17,6 @@ Building project
 ----------------------------------------------
 	"
 
-./build.sh
-
 if [ "${BRANCH_PARAM}" = "--help" ]; then
 	echo "push.sh \"Commit-Message\""
 	exit 1
