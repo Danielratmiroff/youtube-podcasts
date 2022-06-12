@@ -4,7 +4,7 @@
 # @Param #1: new branch name
 # @Param #2: commit message
 
-BRANCH_PARAM="master"
+BRANCH_PARAM="main"
 COMMENT="$1"
 
 CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
