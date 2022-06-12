@@ -1,5 +1,5 @@
 ## Fetch your favourite podcasts
 
-While in youtube, searching for podcasts distracts me with all of it's rich features. 
+While searching for podcasts in youtube, I get distracted by all of its rich features. 
 
-I addressed this problem by creating a simple website that only fetchs my favourite podcasts.
+To addressed this problem, I created this simple website that fetchs uniquely my favourite podcasts.
