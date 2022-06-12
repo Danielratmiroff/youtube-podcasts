@@ -1,0 +1,5 @@
+# List of Todos:
+
+Compile scss to css using go
+Fetch URL from video
+Add some custom inputs to customise fetch

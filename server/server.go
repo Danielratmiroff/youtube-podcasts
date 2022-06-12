@@ -21,10 +21,8 @@ func StartServer(useDummyData bool) {
 	template.BuildTemplate()
 	// }
 
-	fs := http.FileServer((http.Dir("./tmp")))
+	http.Handle("/", http.FileServer((http.Dir("./tmp"))))
 
-	// http.HandleFunc("/", fs)
-	http.Handle("/", fs)
 	log.Print("Listening on :8080...")
 
 	err := http.ListenAndServe("localhost:8080", nil)
