@@ -6,12 +6,12 @@ import (
 )
 
 func saveTemplate(template []byte) {
-	os.Mkdir("tmp", 0644)
+	os.Mkdir("build", 0644)
 
 	pwd, dirErr := os.Getwd()
 	helpers.HandleError(dirErr, "getting current dir")
 
-	filePath := pwd + "/tmp/index.html"
+	filePath := pwd + "/build/index.html"
 
 	file, cErr := os.Create(filePath)
 	helpers.HandleError(cErr, "creating file")

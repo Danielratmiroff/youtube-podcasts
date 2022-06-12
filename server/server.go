@@ -21,7 +21,7 @@ func StartServer(useDummyData bool) {
 	template.BuildTemplate()
 	// }
 
-	http.Handle("/", http.FileServer((http.Dir("./tmp"))))
+	http.Handle("/", http.FileServer((http.Dir("./build"))))
 
 	log.Print("Listening on :8080...")
 

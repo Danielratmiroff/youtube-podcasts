@@ -1,2 +1,2 @@
-cp -r -v ./css/misc.css ./tmp
+cp -r -v ./css/misc.css ./build
 go run .

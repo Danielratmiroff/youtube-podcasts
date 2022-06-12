@@ -18,3 +18,4 @@
 go.work
 
 secrets.json
+build/
