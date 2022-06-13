@@ -5,25 +5,36 @@ import (
 	"fmt"
 	"io/ioutil"
 	"net/http"
+	"net/url"
 	"os"
 	helpers "podcasts/helpers"
 )
 
-func FetchVideos() Response {
+func FetchVideos(query string) Response {
 	req, reqErr := http.NewRequest("GET", "https://www.googleapis.com/youtube/v3/search", nil)
 	helpers.HandleError(reqErr, "handling new request")
 
 	apiKey := os.Getenv("YOUTUBE_API_KEY")
+	q := req.URL.Query()
 
-	query := req.URL.Query()
-	query.Add("key", apiKey)
-	query.Add("channelId", "UCSHZKyawb77ixDdsGog4iWA")
-	query.Add("part", "snippet")
-	query.Add("order", "viewCount")
-	query.Add("type", "video")
-	query.Add("maxResults", "3")
+	// todo: compare queries search
+	if len(query) > 0 {
+		parsed, err := url.ParseQuery(query)
+		helpers.HandleError(err, "parsing query")
+		s := parsed.Get("q")
+		search := s[1 : len(s)-1]
+		fmt.Println(search)
+		q.Add("q", search)
+	}
 
-	req.URL.RawQuery = query.Encode()
+	q.Add("key", apiKey)
+	q.Add("channelId", "UCSHZKyawb77ixDdsGog4iWA")
+	q.Add("part", "snippet")
+	q.Add("order", "viewCount")
+	q.Add("type", "video")
+	q.Add("maxResults", "1")
+
+	req.URL.RawQuery = q.Encode()
 
 	client := &http.Client{}
 	resp, doErr := client.Do(req)

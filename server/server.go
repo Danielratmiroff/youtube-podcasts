@@ -8,24 +8,26 @@ import (
 	"podcasts/template"
 )
 
-// todo: disabled for now
-// func handler(w http.ResponseWriter, r *http.Request) {
-// 	fmt.Fprintf(w, "Hi %s", r.URL.Path[1:])
-// }
+func searchHandler(w http.ResponseWriter, r *http.Request) {
+	log.Printf("Got a %s request for: %v", r.Method, r.URL)
+	w.WriteHeader(http.StatusOK)
+	log.Println("Status response:", http.StatusOK)
+
+	search := r.URL.RawQuery
+	template.BuildTemplate(search)
+}
 
 func StartServer(useDummyData bool) {
 
-	// fmt.Println(useDummyData)
+	template.BuildTemplate("")
 
-	// if !useDummyData {
-	template.BuildTemplate()
-	// }
+	mux := http.NewServeMux()
 
-	http.Handle("/", http.FileServer((http.Dir("./build"))))
+	mux.Handle("/", http.FileServer((http.Dir("./build"))))
+	mux.HandleFunc("/search", searchHandler)
 
 	log.Print("Listening on :8080...")
-
-	err := http.ListenAndServe("localhost:8080", nil)
+	err := http.ListenAndServe("localhost:8080", mux)
 	helpers.HandleError(err, "starting the server")
 
 }

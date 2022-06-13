@@ -1,6 +1,9 @@
 package template
 
-import "fmt"
+import (
+	"fmt"
+	"strings"
+)
 
 // replace misc css file path with dynamic one
 func GetHeader(channel string) []byte {
@@ -15,16 +18,19 @@ func GetHeader(channel string) []byte {
 		<link rel="stylesheet" type="text/css" href="https://css-storage.s3.eu-central-1.amazonaws.com/fretboard.f32f2a8d5293869f0195.css">
 		<link rel="stylesheet" type="text/css" href="https://css-storage.s3.eu-central-1.amazonaws.com/pretty-vendor.83ac49e057c3eac4fce3.css">
 		<link rel="stylesheet" type="text/css" href="https://css-storage.s3.eu-central-1.amazonaws.com/pretty.0ae3265014f89d9850bf.css">
-		<link rel="stylesheet" type="text/css" href="/misc.scss">
+		<link rel="stylesheet" type="text/css" href="/styles.css">
 		<title>%s</title>
 	  </head>
 	  <body>
-		<script></script>
-	  </body>
-	</html>.`, channel)
+	.`, channel)
 
 	return []byte(str)
 }
+
+// func GetNavBar() []byte {
+// 	html := "hey"
+// 	return []byte(html)
+// }
 
 func GetBody(videos Response) []byte {
 	startBody := `<section class="videos" id="featured-videos">
@@ -33,7 +39,10 @@ func GetBody(videos Response) []byte {
 
 	endBody := `</ul>
 				</div>
-				</section>`
+				</section>
+				<script></script>
+				</body>
+			  </html>`
 
 	var body []byte
 	for _, item := range videos.Items {
@@ -43,24 +52,26 @@ func GetBody(videos Response) []byte {
 			Description: item.Snippet.Description,
 			Img:         item.Snippet.Thumbnails.Default.URL,
 		}
-		video := bodyList(videoData)
-		body = append(body, video...)
+		videoUrl := strings.Split(videoData.Img, "/")[4]
+		videoThumbnail := bodyList(videoData, videoUrl)
+
+		body = append(body, videoThumbnail...)
 	}
 
 	html := fmt.Sprintf("%s%s%s", startBody, body, endBody)
+
 	return []byte(html)
 }
 
-// todo: replace LINK from A anchor "url to video"
-func bodyList(metadata videoData) string {
+func bodyList(metadata videoData, videoUrl string) string {
 	str := fmt.Sprintf(`
         <li class="video featured">
-          <a href="#" class="featured-video">
+          <a target="_blank" href="https://www.youtube.com/watch?v=%s" class="featured-video">
             <figure style="background-image: url(%s);">
               <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/50598/video-thumb-placeholder-16-9.png" />
               <figcaption>%s</figcaption>
             </figure>
           </a>
-		  <p>%s</p>`, metadata.Img, metadata.Title, metadata.Description)
+		  <p>%s</p>`, videoUrl, metadata.Img, metadata.Title, metadata.Description)
 	return str
 }

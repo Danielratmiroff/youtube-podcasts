@@ -21,9 +21,8 @@ func saveTemplate(template []byte) {
 	helpers.HandleError(err, "writing file")
 }
 
-func BuildTemplate() {
-	videos := FetchVideos()
+func BuildTemplate(query string) {
+	videos := FetchVideos(query)
 	template := BuildHTML(videos)
 	saveTemplate(template)
-
 }
