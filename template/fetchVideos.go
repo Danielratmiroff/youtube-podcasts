@@ -17,14 +17,10 @@ func FetchVideos(query string) Response {
 	apiKey := os.Getenv("YOUTUBE_API_KEY")
 	q := req.URL.Query()
 
-	// todo: compare queries search
 	if len(query) > 0 {
 		parsed, err := url.ParseQuery(query)
 		helpers.HandleError(err, "parsing query")
-		s := parsed.Get("q")
-		search := s[1 : len(s)-1]
-		fmt.Println(search)
-		q.Add("q", search)
+		q.Add("q", parsed.Get("q"))
 	}
 
 	q.Add("key", apiKey)
@@ -32,7 +28,7 @@ func FetchVideos(query string) Response {
 	q.Add("part", "snippet")
 	q.Add("order", "viewCount")
 	q.Add("type", "video")
-	q.Add("maxResults", "1")
+	q.Add("maxResults", "50")
 
 	req.URL.RawQuery = q.Encode()
 

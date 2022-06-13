@@ -1,6 +1,15 @@
 /**
  * Grid styles
  */
+.video-description {
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.video-grid.front-page.submit-form {
+  text-align: center;
+}
+
 .video-grid.front-page {
   max-width: 1280px;
   margin: 0 auto;
@@ -12,6 +21,7 @@ ul.video-list {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  gap: 20px 0;
 }
 
 li.video {

@@ -1,7 +1,7 @@
 package server
 
 import (
-	// "fmt"
+	"io/ioutil"
 	"log"
 	"net/http"
 	helpers "podcasts/helpers"
@@ -15,6 +15,9 @@ func searchHandler(w http.ResponseWriter, r *http.Request) {
 
 	search := r.URL.RawQuery
 	template.BuildTemplate(search)
+	fileBytes, err := ioutil.ReadFile("./build/index.html")
+	helpers.HandleError(err, "reading search")
+	w.Write(fileBytes)
 }
 
 func StartServer(useDummyData bool) {
