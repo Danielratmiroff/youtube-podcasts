@@ -1,4 +1,3 @@
 mkdir -p ./build
-sass ./css/misc.scss ./css/styles.css
-cp -r -v ./css/*.css ./build
+sass ./css/misc.scss ./build/styles.css
 go run .

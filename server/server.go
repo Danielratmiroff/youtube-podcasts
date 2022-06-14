@@ -25,12 +25,11 @@ func StartServer(useDummyData bool) {
 	template.BuildTemplate("")
 
 	mux := http.NewServeMux()
-
 	mux.Handle("/", http.FileServer((http.Dir("./build"))))
 	mux.HandleFunc("/search", searchHandler)
 
-	log.Print("Listening on :8080...")
-	err := http.ListenAndServe("localhost:8080", mux)
+	log.Print("Listening server...")
+	err := http.ListenAndServe("", mux)
 	helpers.HandleError(err, "starting the server")
 
 }
