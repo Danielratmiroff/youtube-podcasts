@@ -18,8 +18,8 @@
 # Go workspace file
 go.work
 
+dummy.json
 secrets.json
 build/
 tmp/
 .env
-dummy.json
