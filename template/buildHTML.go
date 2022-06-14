@@ -34,7 +34,7 @@ func getHeader(channel string) []byte {
 		<link rel="stylesheet" type="text/css" href="https://css-storage.s3.eu-central-1.amazonaws.com/fretboard.f32f2a8d5293869f0195.css">
 		<link rel="stylesheet" type="text/css" href="https://css-storage.s3.eu-central-1.amazonaws.com/pretty-vendor.83ac49e057c3eac4fce3.css">
 		<link rel="stylesheet" type="text/css" href="https://css-storage.s3.eu-central-1.amazonaws.com/pretty.0ae3265014f89d9850bf.css">
-		<link rel="stylesheet" type="text/css" href="/styles.css">
+		<link rel="stylesheet" type="text/css" href="https://css-storage.s3.eu-central-1.amazonaws.com/styles.css">
 		<title>%s Podcasts List</title>
 	  </head>
 	  <body>`, channel)

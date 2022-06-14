@@ -31,9 +31,6 @@ func FetchVideos(query string) Response {
 	q.Add("maxResults", "50")
 
 	req.URL.RawQuery = q.Encode()
-
-	fmt.Println(req.URL.RawQuery)
-
 	client := &http.Client{}
 	resp, doErr := client.Do(req)
 	helpers.HandleError(doErr, "fetching videos")
