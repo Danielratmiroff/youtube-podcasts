@@ -21,7 +21,7 @@ func searchHandler(w http.ResponseWriter, r *http.Request) {
 	w.Write(fileBytes)
 }
 
-func StartServer(useDummyData bool) {
+func StartServer() {
 
 	template.BuildTemplate("")
 

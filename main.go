@@ -5,8 +5,5 @@ import (
 )
 
 func main() {
-
-	useDummyData := true
-
-	server.StartServer(useDummyData)
+	server.StartServer()
 }
