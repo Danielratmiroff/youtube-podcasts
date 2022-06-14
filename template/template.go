@@ -6,7 +6,7 @@ import (
 )
 
 func saveTemplate(template []byte) {
-	os.Mkdir("build", 0644)
+	os.Mkdir("build", 0777)
 
 	pwd, dirErr := os.Getwd()
 	helpers.HandleError(dirErr, "getting current dir")
@@ -17,7 +17,7 @@ func saveTemplate(template []byte) {
 	helpers.HandleError(cErr, "creating file")
 	defer file.Close()
 
-	err := os.WriteFile(filePath, template, 0644)
+	err := os.WriteFile(filePath, template, 0777)
 	helpers.HandleError(err, "writing file")
 }
 
