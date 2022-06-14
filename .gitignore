@@ -21,5 +21,4 @@ secrets.json
 build/
 tmp/
 .env
-dummyData.json
-push.sh
+*.sh
