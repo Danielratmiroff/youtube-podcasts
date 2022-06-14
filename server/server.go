@@ -4,6 +4,7 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
+	"os"
 	helpers "podcasts/helpers"
 	"podcasts/template"
 )
@@ -28,8 +29,13 @@ func StartServer(useDummyData bool) {
 	mux.Handle("/", http.FileServer((http.Dir("./build"))))
 	mux.HandleFunc("/search", searchHandler)
 
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = "9000"
+	}
+
 	log.Print("Listening server...")
-	err := http.ListenAndServe("", mux)
+	err := http.ListenAndServe(":"+port, mux)
 	helpers.HandleError(err, "starting the server")
 
 }
