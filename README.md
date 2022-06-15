@@ -1,6 +1,6 @@
 ## Fetch your favourite podcasts
 
-![Build Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![Build Status](https://github.com/github/yt-podcasts/actions/workflows/main.yml/badge.svg)
 
 While searching for podcasts in youtube, I get distracted by all of its rich features.
 
@@ -20,16 +20,16 @@ To addressed this problem, I created this simple website that fetchs uniquely my
 sudo nano ~/.bashrc
 ```
 
-_Add:_
+Add in the file:
 
 ```bash
 export YOUTUBE_API_KEY=YOUR_API_KEY_HERE
 ```
 
-4. Run run-locally.sh
+4. Run it using run-locally.sh
 
 ```bash
 sh run-locally.sh
 ```
 
-5. Access [http://localhost:9000/](http://localhost:9000/)
+5. Access [http://localhost:9000](http://localhost:9000/)
