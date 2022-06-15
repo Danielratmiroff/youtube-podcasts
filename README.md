@@ -1,6 +1,6 @@
 ## Fetch your favourite podcasts
 
-![Build Status](https://github.com/github/yt-podcasts/actions/workflows/main.yml/badge.svg)
+![Build Status](https://github.com/Danielratmiroff/yt-podcasts/actions/workflows/main.yml/badge.svg)
 
 While searching for podcasts in youtube, I get distracted by all of its rich features.
 
