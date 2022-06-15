@@ -2,7 +2,7 @@
 
 =========
 
-![Build Status]((https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![Build Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 While searching for podcasts in youtube, I get distracted by all of its rich features.
 
