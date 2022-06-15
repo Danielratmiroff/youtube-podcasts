@@ -8,13 +8,22 @@ import (
 	"net/url"
 	"os"
 	helpers "podcasts/helpers"
+
+	"github.com/joho/godotenv"
 )
+
+func goDotEnvVariable(key string) string {
+	err := godotenv.Load(".env")
+	helpers.HandleError(err, "Error loading .env file")
+	return os.Getenv(key)
+}
 
 func FetchVideos(query string) Response {
 	req, reqErr := http.NewRequest("GET", "https://www.googleapis.com/youtube/v3/search", nil)
 	helpers.HandleError(reqErr, "handling new request")
 
-	apiKey := os.Getenv("YOUTUBE_API_KEY")
+	apiKey := goDotEnvVariable("YOUTUBE_API_KEY")
+
 	q := req.URL.Query()
 
 	if len(query) > 0 {
