@@ -13,7 +13,7 @@ import (
 )
 
 func goDotEnvVariable(key string) string {
-	err := godotenv.Load(".env")
+	err := godotenv.Load("/app/.env")
 	helpers.HandleError(err, "Error loading .env file")
 	return os.Getenv(key)
 }
