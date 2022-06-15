@@ -8,7 +8,7 @@ To addressed this problem, I created this simple website that fetchs uniquely my
 
 #### Currently supported podcasts:
 
-- [Lex Fridman Podcasts](https://www.youtube.com/c/lexfridman)
+- [Lex Fridman Podcast](https://www.youtube.com/c/lexfridman)
 
 ## Usage
 
