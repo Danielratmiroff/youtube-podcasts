@@ -12,11 +12,11 @@ To addressed this problem, I created this simple website that fetchs uniquely my
 
 ## How to use
 
-#### Clone the project into your local folder
+Clone the project into your local folder
 
-#### Create a Youtube API Key - [How to create API key](https://developers.google.com/youtube/registering_an_application)
+Create a Youtube API Key - [How to create API key](https://developers.google.com/youtube/registering_an_application)
 
-#### Set you Youtube API Key as an OS environmental variable
+Set you Youtube API Key as an OS environmental variable
 
 ```bash
 sudo vim ~/.bashrc
@@ -34,6 +34,4 @@ export YOUTUBE_API_KEY=YOUR_API_KEY_HERE
 sh run-locally.sh
 ```
 
-#### Access:
-
-[http://localhost:9000](http://localhost:9000/)
+#### Access: [http://localhost:9000](http://localhost:9000/)
