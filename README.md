@@ -10,7 +10,7 @@ To addressed this problem, I created this simple website that fetchs uniquely my
 
 - [Lex Fridman Podcast](https://www.youtube.com/c/lexfridman)
 
-## Usage
+## How to use
 
 1. Clone the project into a local folder
 2. Create a Youtube API Key - [How to create API key](https://developers.google.com/youtube/registering_an_application)
