@@ -12,12 +12,12 @@ To addressed this problem, I created this simple website that fetchs uniquely my
 
 ## How to use
 
-1. Clone the project into a local folder
+1. Clone the project into your local folder
 2. Create a Youtube API Key - [How to create API key](https://developers.google.com/youtube/registering_an_application)
-3. Set you Youtube API Key as a OS environmental variable
+3. Set you Youtube API Key as an OS environmental variable
 
 ```bash
-sudo nano ~/.bashrc
+sudo vim ~/.bashrc
 ```
 
 Add in the file:
@@ -26,7 +26,7 @@ Add in the file:
 export YOUTUBE_API_KEY=YOUR_API_KEY_HERE
 ```
 
-4. Run it using run-locally.sh
+4. Run it with:
 
 ```bash
 sh run-locally.sh
